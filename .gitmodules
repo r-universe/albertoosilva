@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "areabiplot"]
+	path = areabiplot
+	url = https://github.com/cran/areabiplot
+	shallow = true
+	registered = true
